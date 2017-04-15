@@ -1,0 +1,34 @@
+body{
+  background-color: Black;
+  text-align: center;
+}
+
+h1{
+  font-family: Varanda;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2{
+  font-family: veranda;
+  font-weight: 300;
+  font-size: 42px;
+  color:white;
+  
+}
+
+p{
+  font-family: veranda;
+  font-size: 21px;
+  color: gray;
+}
+
+.downloadLink{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#copyright{
+  align: right;
+}
